@@ -1,0 +1,12 @@
+{
+  "mode": "extractive",
+  "answer": "Employees receive 20 days of paid vacation per calendar year. Unused vacation may carry over up to 5 days. [handbook.md:1:0]",
+  "sources": [
+    {
+      "id": "handbook.md:1:0",
+      "source": "handbook.md",
+      "text": "Employees receive 20 days of paid vacation per calendar year. Unused vacation may carry over up to 5 days.",
+      "score": 1.7581
+    }
+  ]
+}

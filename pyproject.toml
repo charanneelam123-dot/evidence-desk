@@ -1,0 +1,9 @@
+[project]
+name = "evidence-desk"
+version = "0.1.0"
+description = "Document question answering with BM25 retrieval, source citations, abstention, and optional live generation."
+requires-python = ">=3.11"
+dependencies = []
+license = "MIT"
+[tool.ruff]
+line-length = 110
